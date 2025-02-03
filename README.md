@@ -1,4 +1,4 @@
-# ЬMy first git project �
+# My first git project �
 ## This is a new feature!
 - We are learning how to use Git branches.
-This change is made on the feature branch.
+This change is made on the master branch.
